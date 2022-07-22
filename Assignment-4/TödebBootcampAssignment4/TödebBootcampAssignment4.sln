@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4AE4A545-73DA-4342-BF3A-2CE233789DC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "api", "api", "{CD022800-956F-47CC-BC8F-402A296804B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TödebBootcampAssignment4.EntityLayer", "src\api\TödebBootcampAssignment4.EntityLayer\TödebBootcampAssignment4.EntityLayer.csproj", "{1EE9F432-D11A-45B6-86C4-5C59A5FE5681}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TödebBootcampAssignment4.DataAccesLayer", "src\api\TödebBootcampAssignment4.DataAccesLayer\TödebBootcampAssignment4.DataAccesLayer.csproj", "{C66AC43C-EB75-49B5-8678-388CD928CED5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EE9F432-D11A-45B6-86C4-5C59A5FE5681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE9F432-D11A-45B6-86C4-5C59A5FE5681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE9F432-D11A-45B6-86C4-5C59A5FE5681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE9F432-D11A-45B6-86C4-5C59A5FE5681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C66AC43C-EB75-49B5-8678-388CD928CED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66AC43C-EB75-49B5-8678-388CD928CED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66AC43C-EB75-49B5-8678-388CD928CED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66AC43C-EB75-49B5-8678-388CD928CED5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD022800-956F-47CC-BC8F-402A296804B6} = {4AE4A545-73DA-4342-BF3A-2CE233789DC7}
+		{1EE9F432-D11A-45B6-86C4-5C59A5FE5681} = {CD022800-956F-47CC-BC8F-402A296804B6}
+		{C66AC43C-EB75-49B5-8678-388CD928CED5} = {CD022800-956F-47CC-BC8F-402A296804B6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {157D6AC5-25A7-4A87-B44E-98FAD16B8FBD}
+	EndGlobalSection
+EndGlobal
