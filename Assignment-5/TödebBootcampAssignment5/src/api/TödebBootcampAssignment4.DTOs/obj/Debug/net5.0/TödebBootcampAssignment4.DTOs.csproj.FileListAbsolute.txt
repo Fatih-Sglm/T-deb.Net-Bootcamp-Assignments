@@ -1,0 +1,12 @@
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\bin\Debug\net5.0\TödebBootcampAssignment4.DTOs.deps.json
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\bin\Debug\net5.0\TödebBootcampAssignment4.DTOs.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\bin\Debug\net5.0\TödebBootcampAssignment4.DTOs.pdb
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.AssemblyInfo.cs
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\refint\TödebBootcampAssignment4.DTOs.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\TödebBootcampAssignment4.DTOs.pdb
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.DTOs\obj\Debug\net5.0\ref\TödebBootcampAssignment4.DTOs.dll

@@ -1,0 +1,12 @@
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\bin\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.deps.json
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\bin\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\bin\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.pdb
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.csproj.AssemblyReference.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.AssemblyInfoInputs.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.AssemblyInfo.cs
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\refint\TödebBootcampAssignment4.EntityLayer.dll
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\TödebBootcampAssignment4.EntityLayer.pdb
+C:\Users\fatih\source\repos\TödebBootcampAssignment4\src\api\TödebBootcampAssignment4.EntityLayer\obj\Debug\net5.0\ref\TödebBootcampAssignment4.EntityLayer.dll
